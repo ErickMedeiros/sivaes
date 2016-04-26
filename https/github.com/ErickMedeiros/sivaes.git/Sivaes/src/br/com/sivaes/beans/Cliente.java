@@ -1,5 +1,5 @@
 package br.com.sivaes.beans;
 
-public class Aluno {
+public class Cliente {
 
 }
